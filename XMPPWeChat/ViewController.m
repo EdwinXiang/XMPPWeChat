@@ -4,7 +4,7 @@
 //
 //  Created by 向伟 on 15/11/2.
 //  Copyright © 2015年 WeiXiang. All rights reserved.
-//
+//  微信即时通讯项目
 
 #import "ViewController.h"
 
