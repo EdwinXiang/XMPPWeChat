@@ -884,6 +884,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ENABLE_BITCODE = NO;
 				HEADER_SEARCH_PATHS = /usr/include/libxml2;
 				INFOPLIST_FILE = XMPPWeChat/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
@@ -901,6 +902,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ENABLE_BITCODE = NO;
 				HEADER_SEARCH_PATHS = /usr/include/libxml2;
 				INFOPLIST_FILE = XMPPWeChat/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
@@ -981,6 +983,7 @@
 				CE3B28DD1BE7BE2D00F0F5A1 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		CE3B28DE1BE7BE2D00F0F5A1 /* Build configuration list for PBXNativeTarget "XMPPWeChatTests" */ = {
 			isa = XCConfigurationList;
@@ -989,6 +992,7 @@
 				CE3B28E01BE7BE2D00F0F5A1 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		CE3B28E11BE7BE2D00F0F5A1 /* Build configuration list for PBXNativeTarget "XMPPWeChatUITests" */ = {
 			isa = XCConfigurationList;
@@ -997,6 +1001,7 @@
 				CE3B28E31BE7BE2D00F0F5A1 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
